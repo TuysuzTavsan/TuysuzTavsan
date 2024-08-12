@@ -7,9 +7,6 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 <div id="badges" align="center">
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=TuysuzTavsan&style=flat-square&color=blue" alt=""/>
-</div>
   
 <h1>
 Professional Amateur
