@@ -1,21 +1,33 @@
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/564x/f9/a5/9d/f9a59d8203ae6a7b781928bf08fc39ee.jpg" width="100" />
-</div>
-
-<div id="badges" align="center">
-  <a href="https://www.youtube.com/@TuysuzTavsan/videos">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-<div id="badges" align="center">
-  
-<h1>
+<h1 align="center">
 Professional Amateur
 </h1>
 
-### About me :
+<p align="center">
+  <img src="https://i.pinimg.com/originals/1b/b9/08/1bb90899170e8e1c2a8888dce944bd99.gif"/>
+</p>
+
+<div align="center">
+  <a href="https://www.youtube.com/@TuysuzTavsan/videos">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
+  
+### About me:
 I am a coder from Turkey with the focus on game development.
 - I am studying medicine and in grade 5. 
-- I Started coding at 15th March 2023 because I dream to be a creator of a loved game. Forever grinding ever since then.
+- I started coding at 15th March 2023 because I dream to be a creator of a loved game. Forever grinding ever since then.
+- I like to chat about game development and ideas.
+- I am open to collaboration, positions on projects or some small commisions.
+- You can find me in discord with name: tuysuztavsan
+ 
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=tuysuztavsan&show_icons=true&theme=radical">
+</p>
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuysuztavsan&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats">
+</p>
+ 
 
 
 <!---
