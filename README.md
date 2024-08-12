@@ -3,7 +3,7 @@ Professional Amateur
 </h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/1b/b9/08/1bb90899170e8e1c2a8888dce944bd99.gif"/>
+  <img src="https://i.pinimg.com/originals/1b/b9/08/1bb90899170e8e1c2a8888dce944bd99.gif" width="300"/>
 </p>
 
 <div align="center">
@@ -19,15 +19,12 @@ I am a coder from Turkey with the focus on game development.
 - I like to chat about game development and ideas.
 - I am open to collaboration, positions on projects or some small commisions.
 - You can find me in discord with name: tuysuztavsan
- 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=tuysuztavsan&show_icons=true&theme=radical">
-</p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuysuztavsan&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuysuztavsan&show_icons=true&theme=radical"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuysuztavsan&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats">
 </p>
  
+
 
 
 <!---
