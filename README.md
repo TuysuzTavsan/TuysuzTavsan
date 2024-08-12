@@ -21,7 +21,7 @@ I am a coder from Turkey with the focus on game development.
 - You can find me in discord with name: tuysuztavsan
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tuysuztavsan&theme=blue-green&rank_icon=github"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tuysuztavsan&theme=blue-green"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuysuztavsan&layout=compact&langs_count=8&card_width=320&theme=blue-green"/>
