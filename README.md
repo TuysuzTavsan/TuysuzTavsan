@@ -1,6 +1,3 @@
-<h1 align="center">
-Professional Amateur
-</h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/1b/b9/08/1bb90899170e8e1c2a8888dce944bd99.gif" width="300"/>
@@ -19,14 +16,6 @@ I am a coder from Turkey with focus on game development.
 - I like to chat about game development and ideas.
 - I am open to collaboration, positions on projects or some small commisions.
 - You can find me in discord with name: tuysuztavsan
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tuysuztavsan&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuysuztavsan&layout=compact&langs_count=8&card_width=320&theme=transparent" />
-</a>
-
 
 <!---
 TuysuzTavsan/TuysuzTavsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
