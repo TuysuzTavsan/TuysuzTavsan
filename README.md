@@ -10,9 +10,8 @@
 </div>
   
 ### About me:
-I am a coder from Turkey with focus on game development.
-- I am studying medicine and in grade 5. 
-- I started coding at 15th March 2023 because I dream to be a creator of a loved game. Forever grinding ever since then.
+Forever grinding to get good!!
+- Started coding at 15th March 2023 because I dream to be a creator of a loved game. Forever grinding ever since then.
 - I like to chat about game development and ideas.
 - I am open to collaboration, positions on projects or some small commisions.
 - You can find me in discord with name: tuysuztavsan
