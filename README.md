@@ -8,9 +8,11 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-  
-### About me:
-Forever grinding to get good!!
+
+<p align="center">
+Forever Grinding to Get Good
+</p>
+
 - Started coding at 15th March 2023 because I dream to be a creator of a loved game. Forever grinding ever since then.
 - I like to chat about game development and ideas.
 - I am open to collaboration, positions on projects or some small commisions.
